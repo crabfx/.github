@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 # 一套javafx配套的游戏开发工具 🦀
-🙋‍♀️ Gane
-🌈 Self
-🍿 Game Development
-🧙 Public
-🪢 Under Development
+- 🙋‍♀️ Gane
+- 🌈 Self
+- 🍿 Game Development
+- 🧙 Public
+- 🪢 Under Development
 
 ## crabfx引擎包含
 
