@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 一套javafx配套的游戏开发工具 🦀
-- 🙋‍♀️ Gane
+- 🙋‍♀️ Game
 - 🌈 Self
 - 🍿 Game Development
 - 🧙 Public
