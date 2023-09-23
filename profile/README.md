@@ -12,18 +12,18 @@
 引擎标准：standard
 - 使用说明文档
 - 接口文档（自动生成）
-- 示例教程
+- 示例教程（Tutorial）
 
-引擎链接库：crabfx-library
+引擎核心库：engine
 - 核心
 - 子系统
 
-引擎编辑器：crabfx-editor
+引擎编辑器：editor
 - 核心
 - 扩展支持
 
-引擎使用工具：crabfx-tool
+引擎工具：tools
 - 游戏打包工具
 
 实例游戏:
-- 阿尔伯特小游戏war实现
+- 阿尔伯特小游戏crabfx实现
